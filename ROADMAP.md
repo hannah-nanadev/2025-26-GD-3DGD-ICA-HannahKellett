@@ -2,7 +2,7 @@ What's left for the project right now?
 
 Examine
 
-* Camera focus shifts - not too big a deal I don't think
+* Camera focus shifts - the framework's there just need to implement more
 * Examination sounds
 
 Collect
