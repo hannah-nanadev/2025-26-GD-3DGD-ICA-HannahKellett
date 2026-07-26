@@ -2,7 +2,6 @@ What's left for the project right now?
 
 Examine
 
-* Title added to UI - maybe this is something I can add to my dialogue component?
 * Camera focus shifts - not too big a deal I don't think
 * Examination sounds
 
@@ -16,9 +15,6 @@ Modify
 
 Mechanical Puzzle
 * Implement proper win sequence. Needs cutscenes and animations and stuff
-
-Systems
-* Get cutscene controller working so I can add cutscenes/camera cuts everywhere
 
 Ensure the gameplay is complete and reads well to testers before making/sourcing further assets/polishing VFX.
 
