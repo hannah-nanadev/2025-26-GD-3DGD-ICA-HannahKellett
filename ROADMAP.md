@@ -2,7 +2,6 @@ What's left for the project right now?
 
 Examine
 
-* Camera focus shifts - the framework's there just need to implement more
 * Examination sounds
 
 Collect
@@ -11,7 +10,7 @@ Collect
 
 Modify
 
-* More modifications needed. TV explosion is not enough.
+* Make safe visually display opened/device. Maybe for when it's modelled? also add a beeping sound to it
 
 Mechanical Puzzle
 * Implement proper win sequence. Needs cutscenes and animations and stuff
