@@ -12,9 +12,6 @@ Modify
 
 * Make safe visually display opened/device. Maybe for when it's modelled? also add a beeping sound to it
 
-Mechanical Puzzle
-* Implement proper win sequence. Needs cutscenes and animations and stuff
-
 Ensure the gameplay is complete and reads well to testers before making/sourcing further assets/polishing VFX.
 
 More camera sequences are needed for above points.
