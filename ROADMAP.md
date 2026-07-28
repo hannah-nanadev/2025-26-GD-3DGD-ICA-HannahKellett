@@ -8,10 +8,6 @@ Collect
 
 * Collection SFX
 
-Modify
-
-* Make safe visually display opened/device. Maybe for when it's modelled? also add a beeping sound to it
-
 Ensure the gameplay is complete and reads well to testers before making/sourcing further assets/polishing VFX.
 
 More camera sequences are needed for above points.
