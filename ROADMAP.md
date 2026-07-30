@@ -20,3 +20,4 @@ prevent dialogue from being triggered/blue outline from inventory being opened d
 put light on device in case someone pushes it somewhere dark and it gets lost
 why the hell does f4/f5 let you change between lit/unlit? back quote opens the console, might be a thing of it being a dev build
 check for memory leak.
+add lights to the vending machines/escape pod door. or maybe make top of staircase light warmer/reach further?
