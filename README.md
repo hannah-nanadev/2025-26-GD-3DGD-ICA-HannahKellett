@@ -12,6 +12,7 @@ Many objects in the game have several lines of dialogue. You may have to press E
 ## Stage 1 Reflection
 I did zero planning until stage 2. I was overburdened by other projects and was not able to start this one until after Stage 2's due date. Apologies.
 I had a good time with it, though! I didn't use any references to make an environment that was in any way grounded in reality, but I had the chance to mess with MetaSound a lot, get properly accustomed with blueprints and to make my first real models and animations. I'm amazed with what I accomplished here.
+Known bug - the way I run my events internally does not exist if the project is cooked as Shipping. Was not able to find a fix. Please build project as Development instead.
 
 ## Bibliography
 Skybox - TonyS (2024). Planetary Spheremaps – Space Spheremaps. [online] Spacespheremaps.com. Available at: https://www.spacespheremaps.com/planetary-spheremaps/ [Accessed 16 Aug. 2026].
